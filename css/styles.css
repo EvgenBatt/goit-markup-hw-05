@@ -152,7 +152,7 @@ img {
   height: 100%;
   opacity: 1;
   background-color: var(--backdrop-background);
-  transition: opacity var(--modal-tra), visiblity var(--modal-tra);
+  transition: opacity var(--modal-tra), visibility var(--modal-tra);
 }
 
 .is-hidden {
